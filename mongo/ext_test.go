@@ -5,7 +5,7 @@ import (
 
 	"github.com/kamva/mgm/v3"
 	"github.com/stretchr/testify/assert"
-	"github.com/wirelessr/avroschema"
+	"github.com/zenc0ded/avroschema"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
