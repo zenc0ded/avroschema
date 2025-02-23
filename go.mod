@@ -1,4 +1,4 @@
-module github.com/wirelessr/avroschema
+module github.com/zenc0ded/avroschema
 
 go 1.21.4
 
