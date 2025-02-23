@@ -1,6 +1,6 @@
 module github.com/zenc0ded/avroschema
 
-go 1.21.4
+go 1.23.6
 
 require (
 	github.com/kamva/mgm/v3 v3.5.0
